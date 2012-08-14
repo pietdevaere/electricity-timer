@@ -1,4 +1,5 @@
 electricity-timer
 =================
 
-A timer created for a festival
+more info about the device this timer was writen for can be found at
+http://blog.devae.re/?p=19
